@@ -5,7 +5,7 @@ class CallScreen extends StatelessWidget {
   Widget build(BuildContext context) {
      return new Center(
       child: new Text(
-        "Camera",
+        "Calls",
         style: new TextStyle(fontSize: 20.0),
       ),
     );
